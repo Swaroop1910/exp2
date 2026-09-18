@@ -1,1 +1,2 @@
-this is my first pushing to github
+this is my first pushing to GitHub
+hi everyone
